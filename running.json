@@ -1,0 +1,529 @@
+{
+    "frames":[
+    {
+        "spritename": "Dead%20%281%29.png",
+        "x": 10,
+        "y": 10,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%282%29.png",
+        "x": 10,
+        "y": 594,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%283%29.png",
+        "x": 10,
+        "y": 1178,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%284%29.png",
+        "x": 10,
+        "y": 1762,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%285%29.png",
+        "x": 10,
+        "y": 2346,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%286%29.png",
+        "x": 10,
+        "y": 2930,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%287%29.png",
+        "x": 10,
+        "y": 3514,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%288%29.png",
+        "x": 10,
+        "y": 4098,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%289%29.png",
+        "x": 10,
+        "y": 4682,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2810%29.png",
+        "x": 10,
+        "y": 5266,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2811%29.png",
+        "x": 10,
+        "y": 5850,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2812%29.png",
+        "x": 10,
+        "y": 6434,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2813%29.png",
+        "x": 10,
+        "y": 7018,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2814%29.png",
+        "x": 10,
+        "y": 7602,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Dead%20%2815%29.png",
+        "x": 10,
+        "y": 8186,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%281%29.png",
+        "x": 10,
+        "y": 8770,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%282%29.png",
+        "x": 10,
+        "y": 9354,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%283%29.png",
+        "x": 10,
+        "y": 9938,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%284%29.png",
+        "x": 10,
+        "y": 10522,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%285%29.png",
+        "x": 10,
+        "y": 11106,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%286%29.png",
+        "x": 10,
+        "y": 11690,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%287%29.png",
+        "x": 10,
+        "y": 12274,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%288%29.png",
+        "x": 10,
+        "y": 12858,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%289%29.png",
+        "x": 10,
+        "y": 13442,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2810%29.png",
+        "x": 10,
+        "y": 14026,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2811%29.png",
+        "x": 10,
+        "y": 14610,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2812%29.png",
+        "x": 10,
+        "y": 15194,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2813%29.png",
+        "x": 10,
+        "y": 15778,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2814%29.png",
+        "x": 10,
+        "y": 16362,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Idle%20%2815%29.png",
+        "x": 10,
+        "y": 16946,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%281%29.png",
+        "x": 10,
+        "y": 17530,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%282%29.png",
+        "x": 10,
+        "y": 18114,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%283%29.png",
+        "x": 10,
+        "y": 18698,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%284%29.png",
+        "x": 10,
+        "y": 19282,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%285%29.png",
+        "x": 10,
+        "y": 19866,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%286%29.png",
+        "x": 10,
+        "y": 20450,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%287%29.png",
+        "x": 10,
+        "y": 21034,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%288%29.png",
+        "x": 10,
+        "y": 21618,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%289%29.png",
+        "x": 10,
+        "y": 22202,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2810%29.png",
+        "x": 10,
+        "y": 22786,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2811%29.png",
+        "x": 10,
+        "y": 23370,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2812%29.png",
+        "x": 10,
+        "y": 23954,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2813%29.png",
+        "x": 10,
+        "y": 24538,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2814%29.png",
+        "x": 10,
+        "y": 25122,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Jump%20%2815%29.png",
+        "x": 10,
+        "y": 25706,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%281%29.png",
+        "x": 10,
+        "y": 26290,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%282%29.png",
+        "x": 10,
+        "y": 26874,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%283%29.png",
+        "x": 10,
+        "y": 27458,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%284%29.png",
+        "x": 10,
+        "y": 28042,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%285%29.png",
+        "x": 10,
+        "y": 28626,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%286%29.png",
+        "x": 10,
+        "y": 29210,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%287%29.png",
+        "x": 10,
+        "y": 29794,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%288%29.png",
+        "x": 10,
+        "y": 30378,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%289%29.png",
+        "x": 10,
+        "y": 30962,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2810%29.png",
+        "x": 10,
+        "y": 31546,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2811%29.png",
+        "x": 10,
+        "y": 32130,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2812%29.png",
+        "x": 10,
+        "y": 32714,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2813%29.png",
+        "x": 10,
+        "y": 33298,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2814%29.png",
+        "x": 10,
+        "y": 33882,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Run%20%2815%29.png",
+        "x": 10,
+        "y": 34466,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%281%29.png",
+        "x": 10,
+        "y": 35050,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%282%29.png",
+        "x": 10,
+        "y": 35634,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%283%29.png",
+        "x": 10,
+        "y": 36218,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%284%29.png",
+        "x": 10,
+        "y": 36802,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%285%29.png",
+        "x": 10,
+        "y": 37386,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%286%29.png",
+        "x": 10,
+        "y": 37970,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%287%29.png",
+        "x": 10,
+        "y": 38554,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%288%29.png",
+        "x": 10,
+        "y": 39138,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%289%29.png",
+        "x": 10,
+        "y": 39722,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2810%29.png",
+        "x": 10,
+        "y": 40306,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2811%29.png",
+        "x": 10,
+        "y": 40890,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2812%29.png",
+        "x": 10,
+        "y": 41474,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2813%29.png",
+        "x": 10,
+        "y": 42058,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2814%29.png",
+        "x": 10,
+        "y": 42642,
+        "height": 564,
+        "width": 614
+    },
+    {
+        "spritename": "Walk%20%2815%29.png",
+        "x": 10,
+        "y": 43226,
+        "height": 564,
+        "width": 614
+    }
+]
+}
